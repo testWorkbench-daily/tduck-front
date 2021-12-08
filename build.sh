@@ -1,2 +1,2 @@
-npm install
+cnpm install
 npm run build
